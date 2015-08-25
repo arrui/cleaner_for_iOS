@@ -1,0 +1,71 @@
+========================================================================================================================
+Safari cache, cookies and history:
+
+/private/var/mobile/Library/Safari/History.plist
+
+/private/var/mobile/Library/Safari/SuspendState.plist
+
+/private/var/mobile/Library/Caches/com.apple.mobilesafari/Cache.db
+
+/private/var/mobile/Library/Caches/Safari/RecentSearches.plist
+
+/private/var/mobile/Library/Caches/Safari/Thumbnails/*.png
+
+/private/var/mobile/Library/Caches/Maps/MapTiles/MapTiles.sqlitedb
+
+/private/var/mobile/Library/Caches/MapTiles/MapTiles.sqlitedb
+
+/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Persistent/*
+
+/private/var/mobile/Library/Caches/com.apple.keyboards/images/*
+
+/private/var/mobile/Library/Caches/com.apple.IconsCache/*
+
+/private/var/mobile/Library/Caches/com.apple.itunesstored/*
+
+/private/var/mobile/Library/Caches/Snapshots/.../*
+
+========================================================================================================================
+iFile:
+
+/private/var/mobile/Library/iFile/Trash/*
+
+========================================================================================================================
+User Applications:
+
+/private/var/mobile/Applications/.../Library/Caches/...
+
+/private/var/mobile/Applications/.../tmp/...
+
+/private/var/mobile/Applications/.../Cookies/...
+
+========================================================================================================================
+Logs:
+
+/private/var/mobile/Library/Logs/*
+
+/private/var/log/*
+
+/private/var/logs/*
+
+/private/var/wireless/Library/Logs/*
+
+========================================================================================================================
+Temporary Files:
+
+/private/var/tmp/* 
+
+except for /private/var/tmp/360.map
+except for /private/var/tmp/blued
+except for /private/var/tmp/blued-obex
+except for /private/var/tmp/launchd/sock
+except for /private/var/tmp/com.360safe.EnterChargeScan.lock
+except for /private/var/tmp/com.360safe.ServiceNumber.lock
+except for /private/var/tmp/com.360safe.SwitchTo360safe.lock
+
+except for /private/var/tmp/ghostlyIcons.*
+except for /private/var/tmp/gridImages.*
+except for /private/var/tmp/iconImages.*
+except for /private/var/tmp/iconLabels_gray.*
+========================================================================================================================
+
